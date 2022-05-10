@@ -1,0 +1,5 @@
+Games Played: 30
+Opponent: MCTS(500)
+Heuristic Agent Player 1 Win Rate: 0.4
+Heuristic Agent Player 2 Win Rate: 0.3333333333333333
+Heuristic Agent Win Rate: 0.36666666666666664
